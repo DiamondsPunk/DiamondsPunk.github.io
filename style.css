@@ -13,12 +13,12 @@ h2{
 
 .malasngoding-slider { 
 	margin: 0px auto;
-	width: 350px;
-	height: 300px; 
+	width: 768px;
+	height: 400px; 
 }
 
 .isi-slider img { 
-	width: 350px;
+	width: 400px;
 	height: 300px; 
 	float: left;
 }
